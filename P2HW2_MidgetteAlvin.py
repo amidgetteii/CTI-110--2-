@@ -1,4 +1,4 @@
-# Your Name
+# Alvin Midgette
 # September 27, 2026
 # P2HW2
 # This program asks the user for six module test grades, stores them in a list,
